@@ -1,16 +1,16 @@
-Hi, I’m @Prajwalkori
+Hi there, I’m Prajwal Kori 
 
-Interested in Cybersecurity and Cloud Computing
-	
-Currently pursuing B.Tech in Artificial Intelligence and Data Science
-	
-Open to collaborating on security, cloud, and related technical projects
-	
-Reach me at prajwalkori777@gmail.com | www.linkedin.com/in/prajwalkori-cloud-cybersecurity
+About Me
 
-<!---
-Prajwalkori/Prajwalkori is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to see your changes.
---->
+	•	🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
+	•	🔐 Actively exploring Cybersecurity with emphasis on defensive security
+	•	☁️ Actively exploring Cloud Computing and cloud security fundamentals
+	•	🧠 Focused on building secure, scalable, and resilient systems
+	•	🌱 Continuously learning modern security practices and cloud technologies
+
+Connect with Me
+
+	•	LinkedIn: www.linkedin.com/in/prajwalkori-cloud-cybersecurity
+	•	Email: prajwalkori777@gmail.com
 
 
