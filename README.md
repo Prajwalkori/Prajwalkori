@@ -10,7 +10,7 @@ About Me
 
 Connect with Me
 
-	•	LinkedIn: http://linkedin.com/in/prajwalkori-cloud-cybersecurity
+	•	LinkedIn: https://linkedin.com/in/prajwalkori-cloud-cybersecurity
 	•	Email: prajwalkori777@gmail.com
 
 
