@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Prajwalkori
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning B.Tech in AI and DS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @Prajwalkori
+	•	👀 Interested in Cybersecurity and Cloud Computing
+	•	🌱 Currently pursuing B.Tech in Artificial Intelligence and Data Science
+	•	💞️ Open to collaborating on security, cloud, and related technical projects
+	•	📫 Reach me at prajwalkori777@gmail.com | www.linkedin.com/in/prajwalkori-cloud-cybersecurity
 
 <!---
-Prajwalkori/Prajwalkori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Prajwalkori/Prajwalkori is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to see your changes.
 --->
+
